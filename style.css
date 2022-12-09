@@ -1,1 +1,15 @@
-inhoud
+body{
+    background: beige;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    width: 380px;
+    height: 250px;
+    margin-left: 500px;
+    margin-right: auto;
+}
